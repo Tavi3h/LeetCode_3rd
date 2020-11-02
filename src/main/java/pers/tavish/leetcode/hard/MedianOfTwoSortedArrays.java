@@ -22,7 +22,7 @@ nums2 = [3, 4]
 
 The median is (2 + 3)/2 = 2.5
 
-for more information: https://leetcode.com/problems/median-of-two-sorted-arrays/description/
+for more information: https://leetcode.com/problems/median-of-two-sorted-arrays/
  */
 
 public class MedianOfTwoSortedArrays {

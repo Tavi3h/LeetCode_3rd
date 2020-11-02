@@ -29,7 +29,7 @@ A   L S  I G
 Y A   H R
 P     I
 
-for more information: https://leetcode.com/problems/zigzag-conversion/description/
+for more information: https://leetcode.com/problems/zigzag-conversion/
  */
 
 public class ZigZagConversion {

@@ -15,7 +15,7 @@ Example 2:
 Input: "cbbd"
 Output: "bb"
 
-for more information: https://leetcode.com/problems/longest-palindromic-substring/description/
+for more information: https://leetcode.com/problems/longest-palindromic-substring/
  */
 
 import org.junit.Assert;

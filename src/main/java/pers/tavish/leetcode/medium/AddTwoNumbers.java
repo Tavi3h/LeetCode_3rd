@@ -12,7 +12,7 @@ Input: (2 -> 4 -> 3) + (5 -> 6 -> 4)
 Output: 7 -> 0 -> 8
 Explanation: 342 + 465 = 807.
 
-for more information: https://leetcode.com/problems/add-two-numbers/description/
+for more information: https://leetcode.com/problems/add-two-numbers/
  */
 
 import org.junit.Test;

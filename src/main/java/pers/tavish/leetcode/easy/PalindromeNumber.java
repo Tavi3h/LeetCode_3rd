@@ -25,7 +25,7 @@ Follow up:
 
     - Coud you solve it without converting the integer to a string?
 
-for more information: https://leetcode.com/problems/palindrome-number/description/
+for more information: https://leetcode.com/problems/palindrome-number/
  */
 
 import org.junit.Assert;
